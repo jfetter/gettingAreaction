@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.5.5"
+  }
 }
